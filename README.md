@@ -1,5 +1,5 @@
 # CS502025
-# This is a look of my current progress for my CS course
+# This is a look of my current progress for my CS50 course
 
 # This course includes lectures and problem sets as follows:
 ## Week 0 Scratch (complete)
