@@ -14,3 +14,13 @@ This course includes lectures and problem sets as follows:
 # Week 9 Flask
 # Week 10 The End
 # Artificial Intelligence
+
+Links
+# Scratch project:
+## https://scratch.mit.edu/projects/1139038665/
+
+# Gradebook/Submissions
+## https://cs50.me/cs50x
+
+# Course
+## https://cs50.harvard.edu/x/2025/
